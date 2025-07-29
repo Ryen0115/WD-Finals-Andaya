@@ -38,6 +38,7 @@ body {
 .contact-section {
   padding: 3rem 2rem;
   text-align: center;
+  color:black
 }
 
 .section-title {
@@ -61,7 +62,7 @@ body {
   text-decoration: none;
   color: inherit;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  opacity: 0;
+  opacity: 1;
   transform: translateY(20px);
 }
 
