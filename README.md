@@ -93,4 +93,15 @@ WD-Online-Portfolio
 │   └── contact
 │       └── index.html
 ├── index.html
-└── README.md
+└── README.md 
+
+---
+## Sources
+
+| Title        | Purpose                              | Link                                                     |
+| ------------ | ------------------------------------ | -------------------------------------------------------- |
+| Google Fonts | Font: Playfair Display               | [https://fonts.google.com](https://fonts.google.com)     |
+| Font Awesome | Icons for UI navigation              | [https://fontawesome.com](https://fontawesome.com)       |
+| GitHub Pages | Free web hosting                     | [https://pages.github.com](https://pages.github.com)     |
+| Img Icons    | Icon resources                       | [https://icons8.com](https://icons8.com)                 |
+| FEU Tech     | School branding and course reference | [https://www.feutech.edu.ph](https://www.feutech.edu.ph) |
