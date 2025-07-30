@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ryen0115">
-    <img src="./assets/img/lightning (1).png" alt="Lightning" width="130" height="100">
+    <img src="./assets/img/Fein.jpg" alt="Lightning" width="130" height="100">
   </a>
   <h3 align="center">Ryen Jevs Andaya | My Online Portfolio</h3>
 </div>
